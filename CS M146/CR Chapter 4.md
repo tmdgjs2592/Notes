@@ -58,3 +58,14 @@ $$\overset{\sim}{\theta} = \frac {\sum^N_{i=n }x_n}{N}$$
 **Maximum Likelihood Estimation (Gaussian)**
 
 
+# Regularization
+
+Way to suppress the magnitude of $\theta$ by adding an extra term to the cost function.
+$$J(\theta) = ||y- X\theta||^2_2 + \lambda ||\theta||_2 $$
+**$q=2 \rightarrow$ ridge regression**
+$\rightarrow$ As regularization discourages large values of $\theta$, we can prevent overfitting.
+
+$q=1 \rightarrow$ lasso regression
+$q=0 \rightarrow$ subset selection
+$q=1 \text{ and } q=2 \rightarrow$ elastic net regression
+
