@@ -1,9 +1,10 @@
+# Perceptrons
+
 **Goal**
 $\rightarrow$ to create a binary classifier, a predictor function $h(x)$ that correctly classifies the set of data into two classes $y \in \{-1,1\}$.
-
 # Linear Separability
 
-A dataset $D$ is linearly separable if there exists a hyperplane ($\overset {\sim}{w}, b$) such that $y_n(\overset{\sim}{w}^T \overset{\sim}{x_n})$ > 0, $\forall(\overset{\sim}{x}, y_n)$. 
+A dataset $D$ is linearly separable if there exists a hyperplane ($\overset {\sim}{w}, b$) such that $y_n(\overset{\sim}{w}^T \overset{\sim}{x_n})$ > 0, $\forall(\overset{\sim}{x_n}, y_n)$. 
 $\rightarrow$ There exists a hyperplane that gives zero empirical risk for the 0-1 loss function over $D$.
 
 *For the perceptron to function properly, the two classes $C_1$ and $C_2$ must be linearly separable or distinguishable by a single linear hyperplane boundary.

@@ -32,7 +32,6 @@ $$\hat{c_m} = \frac{1}{K} \sum _{x_n \in R_m} y_n $$
 **Accuracy**
 *Accuracy is the highest when the squared error is the lowest*
 $$A(D;h) = - \sum_{x_n,y_n \in D} (y_n - h(x_n))^2$$
-
 If the data size is too large, every $x_n$ will have its corresponding $R_m$, reaching 0 error, which is likely that it's overfitting.
 Solution:
 - max depth or max value of M

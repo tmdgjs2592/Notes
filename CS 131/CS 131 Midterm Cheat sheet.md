@@ -89,4 +89,35 @@ Regular language: one where grammar can be converted into a regular expression $
  What can go wrong?
  - parser that calls itself: S $\rightarrow$ S (no progress)
  - Non-reachable symbols: S $\rightarrow$ aTb (T is not defined)
- - Left recursive grammar: 
+ - Left recursive grammar: S $\rightarrow$ Sa
+****
+**Multiple ways to parse programs**
+Software tools (Unix/Linux)
+- foo.c ~ foo.s: text
+- foo.o~./a.out: binary
+- Easier to debug
+IDEs (Integrated Dev Env)
+- Less details than software tools since details are hidden $\rightarrow$ harder to debug
+Static checking
+- looking for bugs in your program before you run.
+
+**Compilers vs Interpreters**
+Compilers (executing at machine level)
+- Translate source to machine code
+- Run machine code
+- Faster at runtime 
+
+Interpreters
+- Read the source code, parse it, put tree in the RAM
+- Execute instruction specified by parse tree.
+- Faster to get started because the step one doesn't take very long
+- More debuggable
+- More portable (interpreters keep source code around in your files and it works for any machine)
+
+Hybrid (Just In Time compiler)
+- Start off with interpreter
+- Feed the file to interpreter 
+- Interpreter runs each instruction and keeps track of which instructions get executed most often. (profiling)
+- debuggability and portability of byte code and performance of compiler.
+****
+**Type**
