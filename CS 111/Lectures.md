@@ -154,3 +154,18 @@ Device Driver Interface(DDI)
 
 Driver/Kernel interface (DKI)
 - bottom-end services OS provides to drivers
+****
+# Lecture 12 File system
+
+Between apps and hardwares, there are file system API, File system, and device drivers.
+
+**File system API**
+File Container Operations: Standard file system calls
+Directory Operations: organization of a file system.
+File I/O Operations: read or write data from/to a file
+
+Virtual File System Layer: supports using multiple file systems.
+
+Block I/O devices: provides an abstraction to HW. 
+- provides a single big LRU cache.
+- having one big cache is more efficient than having multiple cache per process.

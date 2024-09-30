@@ -541,4 +541,8 @@ FAT
 - typical cluster size $\rightarrow$ 512 bytes
 - max disk size $\rightarrow$ $256 \cdot 512 = 128$ KB
 
+**Chapter 41 Locality and The Fast File System**
+
+FFS (Fast File System)
+- makes sure the seek between related files is short
 

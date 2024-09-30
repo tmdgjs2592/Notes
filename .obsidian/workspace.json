@@ -1,0 +1,390 @@
+{
+  "main": {
+    "id": "3e85e3651cca2b02",
+    "type": "split",
+    "children": [
+      {
+        "id": "2499ef233637617c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe7ed0d0d9c3330d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH 61/Lecture 2 (4-3-2024).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e758317ac968627",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH 61/Lecture 3 (4-5-2024).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab0a711630f3c629",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH 61/Lecture 4 (4-8-2024).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68cba4045176a5e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH 61/Lecture 5 (4-10-2024).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c18f6637e5c4b89f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH 61/Lecture 5 (4-10-2024).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0dfc5a935c386493",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS M146/Lecture 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f6de8374f68361a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH 61/Lecture 2 (4-3-2024).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b561caf0c86551f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS M146/Lecture 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f28e63796d080455",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH 61/Lecture 8 (4-17-2024).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1572303569d463d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS M146/Lecture 7 (4-22-2024).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df20aad5d41ea7a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS 131/Lecture 8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ecf171338b266ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS 131/Lecture 9 (4-30-2024).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ac1e5e3579476a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS M146/Lecture 10 (5-1-2024).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bda2abc956f8492",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS M146/Lecture 13 (5-15-2024)2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e302e75a25318de6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH 61/Lecture 10 (4-22-2024).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1ea929c5483d8ec",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
+            "id": "9187db787990143c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ENGR 111/Lecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff680ad6437fe389",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 17
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5425a69fa000d6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c53cac77f28a799",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1c446f1c67db5ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d02958d85c503170",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d326998dfa278d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eb92bfaf5c60d829",
+    "type": "split",
+    "children": [
+      {
+        "id": "afcb752c49a66d3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e35b7530ca769058",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lecture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71ea4c073edf7bc7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lecture.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d28103d439724204",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cc04843c62ef9ffe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lecture.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ff680ad6437fe389",
+  "lastOpenFiles": [
+    "ENGR 111/Lecture.md",
+    "Lecture.md",
+    "CS 180",
+    "MATH 61/Lecture 2 (4-3-2024).md",
+    "ENGR 111",
+    "CS 111/Reading Notes.md",
+    "CS 111/Terminology.md",
+    "CS 111/Lectures.md",
+    "CS M146/Lecture 13 (5-15-2024)2.md",
+    "MATH 61/Lecture 26 (6-7-2024).md",
+    "MATH 61/Lecture 25 (6-5-2024).md",
+    "MATH 61/Lecture 24 (6-3-2024).md",
+    "MATH 61/Lecture 23 (5-31-2024).md",
+    "MATH 61/Lecture 22 (5-29-2024).md",
+    "CS M146/Ultimate Summary.md",
+    "CS M146/Lecture 17 (6-5-2024).md",
+    "CS M146/Lecture 16 (6-3-2024).md",
+    "CS M146/Lecture 15 (5-22-2024).md",
+    "CS M146/Lecture 14 (5-20-2024).md",
+    "CS M146/Lecture 13 (5-15-2024).md",
+    "CS M146/CR Chatper 12.md",
+    "CS M146/CR Chapter 11.md",
+    "CS M146/CR Chapter 10.md",
+    "CS 131/Lecture 17 (6-3-2024).md",
+    "CS 131/Lecture 16 (5-30-2024).md",
+    "CS 111",
+    "AOS 155/Lecture notes.md",
+    "CS 131/Hw4 (CS 131).md",
+    "CS 131/CS 131 Midterm Cheat sheet.md",
+    "CS 131",
+    "AOS 155",
+    "MATH 61",
+    "AOS 107",
+    "CS M146",
+    "Untitled.canvas"
+  ]
+}

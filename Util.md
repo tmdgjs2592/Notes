@@ -11,3 +11,5 @@ To merge:
 ```bash
 gs -q -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=merged.pdf source1.pdf
 ```
+HTML to pdf:
+pandoc input.html -o output.pdf
